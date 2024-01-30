@@ -8,7 +8,7 @@ YAMAHA 製 FM 音源 IC YM2203 用の SPI インターフェース開発ボー�
 |:----|:----|:----:|
 | C1 ~ C3 | 0.1uF | <https://akizukidenshi.com/catalog/g/g110147/> |
 | C4 | 10uF | <https://akizukidenshi.com/catalog/g/g117897/> |
-| C5, C6 | 47uF | <https://akizukidenshi.com/catalog/g/g110270/> |
+| C5, C6 | 47uF | <https://akizukidenshi.com/catalog/g/g10270/> |
 | R1 ~ R10 | 10kΩ | <https://akizukidenshi.com/catalog/g/g125103/> |
 | U1 | YM2203 | - |
 | U2 | YM3014B | - |
