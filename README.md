@@ -14,3 +14,4 @@ YAMAHA 製 FM 音源 IC YM2203 用の SPI インターフェース開発ボー�
 | U2 | YM3014B | - |
 | U3 | MCP23S17 | <https://akizukidenshi.com/catalog/g/g110644/> |
 | U4, U5 | NJM4558DD | <https://akizukidenshi.com/catalog/g/g111236/> |
+| U6 | 1MHz Osc | <https://akizukidenshi.com/catalog/g/g110385/> |
