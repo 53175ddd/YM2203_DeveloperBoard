@@ -2424,7 +2424,7 @@
       (effects (font (size 1.27 1.27)) (justify right) hide)
     )
   )
-  (global_label "OPN_OUT" (shape output) (at 135.89 99.06 180) (fields_autoplaced)
+  (global_label "OPN_OUT" (shape input) (at 135.89 99.06 180) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify right))
     (uuid 22ef8311-76b5-4935-9292-254e5136b0c3)
     (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 124.457 99.06 0)
